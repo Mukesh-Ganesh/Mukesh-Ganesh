@@ -6,5 +6,8 @@ Currently associated with Palo Alto Networks as a Data Engineer Practicum Studen
 
 Looking for full time roles in Data Analytics, Data Engineering and Business Analytics.
 
-## You can reach me via email at mukesh.ganesh99@gmail.com or on my cell at +1(669)282-8639
+## Tools and Technologies
+
+![image](https://user-images.githubusercontent.com/55825468/120099034-1f036e00-c0ee-11eb-925b-71cd0b54aed0.png)
+
 
