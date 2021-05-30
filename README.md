@@ -8,9 +8,7 @@ Looking for full time roles in Data Analytics, Data Engineering and Business Ana
 
 ## Tools and Technologies
 
-<img src="https://user-images.githubusercontent.com/55825468/120116531-711fb000-c13d-11eb-9e0f-c61bc76b4a1e.png" width="60px"> <img src="https://user-images.githubusercontent.com/55825468/120099177-0778b500-c0ef-11eb-8266-ac5b1ea2124f.png" width="60px"> <img src="https://user-images.githubusercontent.com/55825468/120099475-799dc980-c0f0-11eb-8a97-bd489a67b220.png" width="50px"> <img src="https://user-images.githubusercontent.com/55825468/120099191-1eb7a280-c0ef-11eb-8cf7-81a933690598.png" width="60px"> <img src="https://user-images.githubusercontent.com/55825468/120099386-098f4380-c0f0-11eb-8d74-050b679fe029.png" width="60px"> <img src="https://user-images.githubusercontent.com/55825468/120099407-1f9d0400-c0f0-11eb-8274-4adf67e33cf5.png" width="60px"> <img src="https://user-images.githubusercontent.com/55825468/120099429-36435b00-c0f0-11eb-89ad-db598b3ac175.png" width="60px">
-
-
+<img src="https://user-images.githubusercontent.com/55825468/120116531-711fb000-c13d-11eb-9e0f-c61bc76b4a1e.png" width="60px"> <img src="https://user-images.githubusercontent.com/55825468/120099177-0778b500-c0ef-11eb-8266-ac5b1ea2124f.png" width="60px"> <img src="https://user-images.githubusercontent.com/55825468/120099475-799dc980-c0f0-11eb-8a97-bd489a67b220.png" width="50px"> <img src="https://user-images.githubusercontent.com/55825468/120116624-da072800-c13d-11eb-9e7a-c4f2138066ef.png" width="60px"> <img src="https://user-images.githubusercontent.com/55825468/120099386-098f4380-c0f0-11eb-8d74-050b679fe029.png" width="60px"> <img src="https://user-images.githubusercontent.com/55825468/120099407-1f9d0400-c0f0-11eb-8274-4adf67e33cf5.png" width="60px"> <img src="https://user-images.githubusercontent.com/55825468/120099429-36435b00-c0f0-11eb-89ad-db598b3ac175.png" width="60px">
 
 
 
