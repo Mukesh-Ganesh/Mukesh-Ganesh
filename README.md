@@ -8,6 +8,6 @@ Looking for full time roles in Data Analytics, Data Engineering and Business Ana
 
 ## Tools and Technologies
 
-![image](https://user-images.githubusercontent.com/55825468/120099034-1f036e00-c0ee-11eb-925b-71cd0b54aed0.png)
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="30px">
 
 
