@@ -14,6 +14,6 @@ Technically skilled in SQL, Python, Cloud Technologies like Snowflake and Azure,
 
 <a href='https://www.linkedin.com/in/mukesh-ganesh-229695164'> <img src="https://user-images.githubusercontent.com/55825468/120117431-0e7ce300-c142-11eb-8dd0-b94278bcdb39.png" width="40px"></a>
 
-<img src="https://user-images.githubusercontent.com/55825468/120117482-3e2beb00-c142-11eb-86a2-d05fa0ef12d0.png" width="50px">  <b>mukesh.ganesh99@gmail.com</b>  
+<img src="https://user-images.githubusercontent.com/55825468/120117482-3e2beb00-c142-11eb-86a2-d05fa0ef12d0.png" width="50px">  <b>mukesh.gnsh10@gmail.com</b>  
 
 <img src="https://user-images.githubusercontent.com/55825468/120117521-7d5a3c00-c142-11eb-8225-cddba000ea91.png" width="50px">  <b>+1(669)282-8639</b>
