@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Mukesh, a graduate student in Master's in Information Systems at Santa Clara University who is data driven and passionate about Data Analytics and Data Science. Love analyzing large data sets, transform data and generate key insights through data visualization to solve complex business and technical problems.
+I am a Data Analytics senior consultant at Ernst & Young(EY) with over 4 years of experience assisting clients in solving complex business and technical problems in areas such as report automation, database management, data modeling, business and artificial intelligence. 
 
-Currently associated with Palo Alto Networks as a Data Engineer Practicum Student working on firewall failure analysis. Previously interned at AMD as a Data Analyst, where I worked on yield analysis and various automation analysis. At Accenture, I worked as an Application Development Analyst where I worked with Identity and Access Management. Technically skilled in SQL, Data Modeling and Warehousing, Python, BI tools and Machine Learning with extensive problem solving skills. Team player and always eager to learn.
+Prior to joining EY, I graduated with a Master's degree in Information Systems majoring in Data Analytics from Santa Clara University. I have also interned at Advanced Micro Devices(AMD) as a Data Analyst and worked on a project for Palo Alto Networks during my graduate program. 
 
-#### Looking for full time roles starting immediately in Data Analytics, Data Engineering, Data Science and Business Analytics.
+Technically skilled in SQL, Python, Cloud Technologies like Snowflake and Azure, Data Visualization with BI tools like Tableau and extensive problem solving skills. Team player and always eager to learn.
 
 ## Tools and Technologies
 
